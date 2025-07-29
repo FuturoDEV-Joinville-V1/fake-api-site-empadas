@@ -21,7 +21,7 @@ cd product-api
 npm install
 
 # 3. Inicie o servidor
-npm start
+npm run servidor
 ```
 
 > A API ficará disponível em: [http://localhost:3000](http://localhost:3000)
